@@ -1,0 +1,37 @@
+# Sanlúcar Dark — the same view at sunset: the sun dropping behind Doñana's
+# pines across the Guadalquivir, a dusk sky of indigo and plum, ember and gold
+# light on the water, and the pink afterglow over the Bonanza salt pans.
+mode = "dark"
+
+accent = "#F2963F"              # sun on the river mouth
+selection = "#3B3149"
+muted = "#5F5369"
+
+background = "#1D1A28"          # dusk over Doñana
+dark_background = "#17141F"
+darker_background = "#110F18"
+lighter_background = "#2A2537"
+
+foreground = "#F1E1CB"          # sand in the last light
+dark_foreground = "#8D7F8C"
+light_foreground = "#D8C5AE"
+bright_foreground = "#FBF1E2"
+
+hyprland_active_border = "rgba(f2963fee) rgba(d97fa6ee) 45deg"
+hyprland_inactive_border = "rgba(3b3149aa)"
+
+red = "#E2634B"                 # ember
+yellow = "#F2C35E"              # sun gold / manzanilla
+orange = "#F2963F"              # sunset
+green = "#9DB36E"               # pines in the last light
+cyan = "#62B0A6"                # Guadalquivir
+blue = "#7E92CC"                # dusk sky
+magenta = "#D97FA6"             # afterglow / flamingo
+brown = "#A9744A"               # sherry cask
+
+bright_red = "#F07D66"
+bright_yellow = "#F7D488"
+bright_green = "#B5C98A"
+bright_cyan = "#82C6BD"
+bright_blue = "#9CADDB"
+bright_magenta = "#E89BBE"

@@ -1,0 +1,13 @@
+Backgrounds
+
+0-pixel-sanlucar-dark.png  Pixel art made for this theme.
+
+The photos below come from Wikimedia Commons and were cropped to 16:9.
+Each keeps its original license. Source page: https://commons.wikimedia.org/wiki/File:<original name>
+
+File                           Original name                                           Author          License
+1-river-mouth-sunset.jpg       Puesta de sol en la desembocadura del Guadalquivir.jpg  Hi im Chest3r   CC BY-SA 3.0 ES
+2-sun-over-donana.jpg          Donana11.jpg                                            Revista-strong  CC BY-SA 4.0
+3-sanlucar-beach-dusk.jpg      Playa de Sanlúcar de Barrameda.jpg                      Juanjepurpo     CC BY-SA 4.0
+4-salinas-de-bonanza.jpg       Salinas de Bonanza.jpg                                  Artistsbox      CC BY-SA 4.0
+5-guadalquivir-and-donana.jpg  Bajo Guadalquivir y Coto de Doñana.jpg                  ItxHatesYou     CC BY-SA 3.0 ES
