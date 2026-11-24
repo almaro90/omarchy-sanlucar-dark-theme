@@ -1,6 +1,7 @@
 Backgrounds
 
-0-pixel-sanlucar-dark.png  Pixel art made for this theme.
+0-pixel-sanlucar-dark.png        Pixel art made for this theme.
+6-boats-and-flamingos-dusk.jpg   Made for this theme.
 
 The photos below come from Wikimedia Commons and were cropped to 16:9.
 Each keeps its original license. Source page: https://commons.wikimedia.org/wiki/File:<original name>
